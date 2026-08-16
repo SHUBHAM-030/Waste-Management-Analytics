@@ -37,7 +37,6 @@ Cost per KG - Month - Year
 -   **Microsoft Excel** --- Data cleaning and validation
 -   **MySQL** --- Data storage and SQL analysis
 -   **Power BI** --- Interactive dashboard and data visualization
--   **Python** --- Pandas, NumPy, and Matplotlib for analytics skills
 
 ## Project Workflow
 
@@ -119,8 +118,6 @@ Waste-Management-Analytics/
 
 **Power BI:** Data Modeling, KPI Cards, Charts, Slicers, Interactive
 Dashboard
-
-**Python:** Pandas, NumPy, Matplotlib
 
 ## Files
 
